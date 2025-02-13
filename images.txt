@@ -7,3 +7,4 @@
 
 #在下面填写镜像名
 linuxserver/homeassistant
+ghcr.io/home-assistant/home-assistant:stable
