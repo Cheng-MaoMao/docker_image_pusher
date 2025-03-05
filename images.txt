@@ -7,4 +7,3 @@
 
 #在下面填写镜像名
 --platform=linux/arm64 linuxserver/homeassistant
-fireflyiii/core
